@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang='en'>
 
-<head>
-      <style>
-         table, th, td {
-            border: 1px solid black;
-         }
-      </style>
-<title>Kanika - Portfolio</title>
-</head>
 
 <body>
 <h1> Kanika </h1>
